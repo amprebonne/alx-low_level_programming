@@ -1,7 +1,10 @@
 #include "main.h"
 /**
  * _puts_recursion - prints string characters to std out recursively
+ * 's' - input string
+ * 's': input string
  * @s - input string
+ * @s: input string
  * Return: Always 0 (Success)
  */
 void _puts_recursion(char *s)
