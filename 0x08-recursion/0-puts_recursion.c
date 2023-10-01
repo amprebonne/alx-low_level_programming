@@ -2,6 +2,7 @@
 /**
  * _puts_recursion - prints string characters to std out recursively
  * @s - input string
+ * *s - pointer to 's' variable storing input string
  * Return: Always 0 (Success)
  */
 void _puts_recursion(char *s)
